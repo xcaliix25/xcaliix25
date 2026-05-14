@@ -1,96 +1,70 @@
 # Hi, I'm Lukáš 👋
 
-Full-Stack Developer | Creator of Trezzo
+Full-Stack Developer | Building Trezzo
 
-Building scalable SaaS products with a focus on modern web applications, real-time systems, and user experience.
+## 🚀 About me
 
----
+I'm building Trezzo — a production-oriented SaaS platform focused on social networking, creator tools and commerce systems.
 
-## 🚀 Current Project
+Main focus:
 
-### Trezzo
+- Full-stack application architecture
+- Scalable frontend/backend systems
+- Real-time communication
+- User experience
+- Product-oriented development
 
-Trezzo is a production-oriented SaaS platform combining multiple products into one ecosystem:
+## 🚀 Current Project: Trezzo
+
+Trezzo combines multiple systems into one ecosystem:
 
 - Social network
 - Marketplace
 - Digital products
 - Real-time messenger
 - Affiliate system
-- Work / Freelance platform
-- Creator tools
+- Work / Freelance tools
+- Creator platform
 
-🌐 Website: https://trezzo.cz
+🌐 Live demo: https://trezzo.cz
 
----
-
-## 🌍 Live Demo
-
-Explore Trezzo directly:
-
-🔗 https://trezzo.cz
-
-Guest access available.
-
-Available features:
-
-- Social Feed
-- Marketplace
-- Work / Freelance
-- Digital products
-- Real-time messaging
-- Affiliate system
-
----
+Guest mode available:
+Visitors can explore the platform without registration.
 
 ## 🛠 Tech Stack
 
-### Frontend
+Frontend:
 - Vue.js
-- TypeScript
 - JavaScript
-- HTML
-- CSS
+- TypeScript
 
-### Backend
+Backend:
 - Node.js
 - REST API
 
-### Architecture
+Architecture:
+- Authentication systems
 - Real-time systems
-- Role-based permissions
-- SaaS architecture
-- Scalable application design
+- Scalable SaaS structure
 
----
+## 🔥 Technical Challenges Solved
+
+- User/account separation
+- Multi-domain architecture
+- Authentication workflows
+- Real-time communication
+- Platform structure design
+- SEO and public pages
 
 ## 📌 Main Projects
 
-### Trezzo
-Production-oriented full-stack SaaS platform.
-
-### CryptoShield
-Security-focused project for crypto scam detection.
-
----
-
-## 🎯 Areas of Interest
-
-- Full-Stack Development
-- SaaS Platforms
-- System Architecture
-- Real-time Applications
-- Product Design
-- Scalable Systems
-
----
+- Trezzo
+- CryptoShield
 
 ## 📫 Contact
 
-🌐 Website: https://trezzo.cz
+Website:
+https://trezzo.cz
 
-GitHub: @xcaliix25
-
----
-
-⭐ Building products and turning ideas into real applications
+GitHub:
+https://github.com/xcaliix25
