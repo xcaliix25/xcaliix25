@@ -1,4 +1,38 @@
-## Hi there 👋
+# Hi, I'm Lukáš 👋
+
+Full-Stack Developer | Creator of Trezzo
+
+## 🚀 Current Project
+
+Trezzo is a production-oriented SaaS platform combining:
+
+- Social network
+- Marketplace
+- Digital products
+- Real-time messenger
+- Affiliate system
+- Work / Freelance tools
+
+🌐 Website: https://trezzo.cz
+
+## 🛠 Tech Stack
+
+- Vue.js
+- Node.js
+- TypeScript
+- JavaScript
+- REST API
+- Real-time systems
+
+## 📌 Main Projects
+
+- Trezzo
+- CryptoShield
+
+## 📫 Contact
+
+- Website: https://trezzo.cz
+- GitHub: @xcaliix25
 
 <!--
 **xcaliix25/xcaliix25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
